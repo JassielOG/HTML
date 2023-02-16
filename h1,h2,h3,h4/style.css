@@ -1,0 +1,154 @@
+body{
+    background-color: #1a32eb;
+}
+.h1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 10px;
+    background-image: url("h1.jpeg");
+}
+.h1p{
+    position: right 600px;
+}
+
+.tableh1{
+    width: 200px;
+    height: 100px;
+    background-color:  #28eb1a;
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+}
+
+.tableh2{
+    
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 20, 187);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px;
+    margin: 20px; 
+}
+
+.tableh22{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 20, 187);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px;
+    margin: 20px;  
+}
+
+.tableh3{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 20, 46);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+
+.tableh32{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 20, 46);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+
+.tableh33{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 20, 46);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+
+.tableh4{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 216, 20);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+.tableh41{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 216, 20);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+.tableh42{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 216, 20);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+.tableh43{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 216, 20);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+.tableh44{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(216, 216, 20);
+    display: grid;
+    grid-template-rows: repeat(3,33%);
+    grid-template-columns: repeat(2,50%);
+    border-radius: 5px;
+    padding: 3px; 
+    margin: 20px; 
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: grid;
+    border-radius: 20px;
+    grid-template-rows: repeat(3,45%,45%,10%);
+    justify-items: center;
+    height: 400px;
+    width: 450px;
+}
